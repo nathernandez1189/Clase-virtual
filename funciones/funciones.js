@@ -11,5 +11,3 @@ const precioFinal =  calcular(precioOriginal, descuentoParaLaPrenda);
 console.log("el precio original es: $" + precioOriginal);
 console.log("el descuento es: $" + descuentoParaLaPrenda + "%");
 console.log("precio con descuento es: $" + precioFinal);
-
-
